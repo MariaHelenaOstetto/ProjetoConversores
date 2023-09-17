@@ -47,12 +47,15 @@ O Java pode ser instalado gratuitamente através do <a href="https://www.java.co
 Basta um duplo clique no projeto para que ele comece a rodar. Uma janela pode ser exibida ao clicar no projeto perguntando qual programa será usado para abrir o arquivo e neste caso escolha Java(TM).
 
 ### 5 Desenvolvedora do Projeto
-#Maria Helena Ostetto (Farmacêutica-Bioquímica, formada pela UFSC - Universidade Federal de Santa Catarina. Atualmente iniciando como estudante de Tecnologia na Alura em curso de especialização Back-End. Já recebeu uma Badge por cumprir o primeiro Challenge, criar um Codificador/Decodificador de texto em Javascript (o projeto pode ser visitado no <a href="https://mariahelenaostetto.github.io/Projeto2/"> site do GitHub. </a></p>
+#Maria Helena Ostetto (Farmacêutica-Bioquímica, formada pela UFSC - Universidade Federal de Santa Catarina. Atualmente iniciando como estudante de Tecnologia na Alura em curso de especialização Back-End. Já recebeu duas Badges: 1) por cumprir o primeiro Challenge, criar um Codificador/Decodificador de texto em Javascript (o projeto pode ser visitado no <a href="https://mariahelenaostetto.github.io/Projeto2/"> site do GitHub. </a>, e 2) por cumprir este desafio: criar conversor de moedas em Java.<br>
 ![Eu](https://github.com/MariaHelenaOstetto/ProjetoConversores/assets/131919312/999929de-124d-493e-b221-2eebd5347bde)<br>
 <sub>[Maria Helena Ostetto]</sub><br>
 [(https://https://github.com/MariaHelenaOstetto)]<br>[(https://www.linkedin.com/in/maria-helena-ostetto/)]<br>
 ![BadgeChallenge1AluraMiniatura](https://github.com/MariaHelenaOstetto/ProjetoConversores/assets/131919312/8d900a53-6a9b-43d2-b7a6-6ce62e5868aa)<br>
-<sub>[Badge Challenge 1]</sub>
+<sub>[Badge Challenge 1]</sub><br><br>
+![BadgeAluraChallengeProjetoConversor 1](https://github.com/MariaHelenaOstetto/ProjetoConversores/assets/131919312/a9d2f58f-94a6-429e-88a9-9d5950f58c27)<br>
+<sub>..........................[Badge Challenge 2 Projeto Conversores].........................</sub><br>
+
 ### 6 Referências Bibliográficas
         https://cursos.alura.com.br<br>
         https://www.devmedia.com.br<br>
@@ -70,5 +73,8 @@ Basta um duplo clique no projeto para que ele comece a rodar. Uma janela pode se
 *4 Instruções para Abrir e Rodar o Projeto*<br>
 *5 Desenvolvedora do Projeto*<br>
 *6 Referências Bibliográficas*<br>
+
+
+
 #README#  Turma 5: #challengeoneconversorbr5   #AluraONEOracleNextEducation
 17/09/2023
